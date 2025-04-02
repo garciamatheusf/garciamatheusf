@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Matheus Garcia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Matheus+Garcia..&hearts;++;Technology+Enthusiast;Manager;Architecture;DevOps,;Developer;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Matheus+Garcia..&hearts;++;Technology+Enthusiast;CTO;Manager;Architecture;DevOps,;Developer;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -14,7 +14,8 @@
 
 <br>
 
-- 3+ years of expertise as Engineering Manager;
+- 1+ years of expertise as CTO;
+- 4+ years of expertise as Engineering Manager;
 - Experience leading more than 30 developers;
 - Often working as a solutions architect, devops and cloud architect;
 - Worked with many languages, like node, java, php, C#, python, angular, react and react native;
